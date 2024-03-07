@@ -4,6 +4,7 @@
     text-align: center;
     
     
+    
 }
 
 .wrapper>*{
@@ -16,6 +17,11 @@ border-radius: 10px;
 .header{
 background-color: tomato;
 height: 120px;
+box-sizing: border-box;
+padding: auto;
+display: flex;
+justify-content: center;
+align-items: center;
 }
 
 .footer{
